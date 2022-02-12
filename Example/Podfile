@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FmyBabyKit_Example' do
+  pod 'FmyBabyKit', :path => '../'
+
+  target 'FmyBabyKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
