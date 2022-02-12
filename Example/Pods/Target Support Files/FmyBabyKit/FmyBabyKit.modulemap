@@ -1,0 +1,6 @@
+framework module FmyBabyKit {
+  umbrella header "FmyBabyKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

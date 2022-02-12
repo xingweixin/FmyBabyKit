@@ -1,0 +1,16 @@
+PODS:
+  - FmyBabyKit (0.1.0)
+
+DEPENDENCIES:
+  - FmyBabyKit (from `../`)
+
+EXTERNAL SOURCES:
+  FmyBabyKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FmyBabyKit: 7da9dbb05c5a93c179ca86070d76a80c746f20e0
+
+PODFILE CHECKSUM: d348c47d81b2ab5777500a59dd03981aa80f8a69
+
+COCOAPODS: 1.10.1
